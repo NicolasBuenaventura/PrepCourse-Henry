@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 0 del bootcamp de Henry.
+Este es un proyecto de prueba de clon de repositorio y edicion del mismo.
